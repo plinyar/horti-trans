@@ -1,0 +1,201 @@
+---
+compartments:
+  selectPlaceholder: Select to compare fr
+crops:
+  categories:
+    climate: Climat
+    climateExtra: Climat supplémentaire
+    climateSettings: Paramètres climatiques
+    climateUC: Climat Ultra Clima
+    cropEvaluation: Évaluation
+    cropPollination: Pollinisation
+    cropProduction: Production
+    heating: Chauffage
+    irrigation: Irrigation
+    labor: La main d'oeuvre
+    lighting: Éclairage
+    other: Autre
+    screening: Dépistage
+    ventilation: Ventilation
+    weather: Météo
+    weight: Poids
+  crop: Surgir
+  editEvaluation: Modifier l'évaluation
+  error: Valeur incorrecte
+  evaluationDate: Date d'évaluation
+  indicatorName: Nom de l'indicateur
+  newEvaluation: Nouvelle évaluation
+  plant: Plante
+  submit: Soumettre
+  tooltipHint: Vous pouvez appuyer sur le nom de l'indicateur pour voir une description
+    / procédure
+cunits:
+  mini:
+    boolean: booléen
+    celsiusDegree: "° C"
+    centimeter: cm
+    count: compter
+    cubicMeter: m3
+    days: journées
+    degree: degré
+    gram: g
+    hour: heures
+    id: identifiant
+    joulePerSquareCentimeter: J / cm2
+    kilogram: kg
+    kilogramPerSquareMeter: kg / m2
+    liter: l
+    literPerSquareMeter: l / m2
+    meterPerSecond: Mme
+    microMolPerSecond: mmol / s
+    millimeter: mm
+    milliSiemensPerCentimeter: mS / cm
+    orderNumber: non.
+    partsPerMillion: ppm
+    pascal: Pennsylvanie
+    percent: "%"
+    pH: pH
+    score: But
+    wattHour: Wh
+    wattPerSquareMeter: W / m2
+dates:
+  custom: Douane
+  last24Hours: Dernières 24 heures
+  last30Days: Les 30 derniers jours
+  last365Days: Les 365 derniers jours
+  last3Days: Les 3 derniers jours
+  last7Days: Les 7 derniers jours
+  last90Days: 90 derniers jours
+  lastMonth: Le mois dernier
+  lastWeek: La semaine dernière
+  lastYear: L'année dernière
+  thisMonth: Ce mois-ci
+  thisWeek: Cette semaine
+  thisYear: Cette année
+  today: Aujourd'hui
+  yesterday: Hier
+dialog:
+  cancel: Annuler
+  create: Créer
+  delete: Effacer
+  ok: D'accord
+error:
+  error: Erreur
+graphs:
+  create: Nouveau
+  createDialog:
+    createEmpty: Créer vide
+    currentView: Utiliser la vue actuelle
+    presetsName: Nom des Presets
+    title: Nouveau preset
+  datesDialog:
+    title: Sélection de la date
+  deleteDialog:
+    question: Voulez-vous vraiment supprimer
+    title: Supprimer le preset
+  edit: sauvegarder
+  emptyGraphsMetricsTable: Cliquez sur Paramètres pour créer un graphique
+  parameters: Paramètres
+  parametersDialog:
+    emptyTable: Aucune statistique trouvée dans ce noeud
+    filterPlaceholder: Filtrer par nom
+    title: Paramètres
+  selectCompartmentPlaceholder: Sélectionnez un compartiment
+  selectDatePlaceholder: Sélectionnez une plage de dates
+  selectPlaceholder: Sélectionnez un paramètre prédéfini
+  table:
+    average: Moyenne
+    axis: Axe Y
+    color: Couleur
+    maximum: Max
+    minimum: Min
+    name: Métrique
+    timeMax: Temps Max
+    timeMin: Temps Min
+  updateDialog:
+    presetsName: Nom des Presets
+    title: Modifier le preset
+header:
+  account:
+    language: La langue
+    languageDialogHeader: Choisir la langue
+    logout: Connectez - Out
+    profile: Profil
+  links:
+    evaluations: Visites
+    graphs: Graphiques
+    input: Cultures
+    photos: Photos
+    tables: les tables
+loader:
+  title: Chargement. S'il vous plaît, attendez
+login:
+  email: Email
+  errors:
+    incorrect: identifiant ou mot de passe incorrect
+  forgot: mot de passe oublié?
+  password: Mot de passe
+  submit: se connecter
+photos:
+  delete: Effacer
+  deleteQuestion: Voulez-vous vraiment supprimer la photo
+  enterYourComment: Votre commentaire
+  loadingPhoto: Chargement de la photo
+  photoDescriptionText: Texte de description de photo
+  replace: Remplacer
+  share: Partager
+  submit: Soumettre
+  takePhoto: Prendre une photo
+  types:
+    extra: Supplémentaire
+    extra_2: Extra 2
+    fruit: Fruit
+    head: Tête
+    root: Racine
+  week:
+    few: Semaines
+    many: Semaines
+    one: La semaine
+    other: Semaines
+plantingCycles:
+  compare: Comparer
+  selectPlaceholder: Choisir la plantation сycle
+  species:
+    cucumber: Concombre
+    orchids: Orchidées
+    roses: Des roses
+    tomato: Tomate
+tables:
+  crop: Surgir
+  editDialog:
+    title: Récolte
+  editEvaluation: Modifier l'évaluation
+  error: Valeur incorrecte
+  evaluationDate: Date d'évaluation
+  indicatorName: Nom de l'indicateur
+  newEvaluation: Nouvelle évaluation
+  plant: Plante
+  submit: Soumettre
+  tooltipHint: Vous pouvez appuyer sur le nom de l'indicateur pour voir une description
+    / procédure
+  week:
+    few: Semaines
+    many: Semaines
+    one: La semaine
+    other: Semaines
+tiles:
+  groups:
+    businessManagement: Gestion d'entreprise
+    knowledgeLibrary: Bibliothèque de connaissances
+  groupsHeader: Add-ons
+  header: IntelGro
+  linksHeader: Gestion des cultures
+  types:
+    feasibilityStudy: Étude de faisabilité
+    finance: La finance
+    greenhouseConfiguration: Configuration de serre
+    maintenance: Entretien
+    qualityManagement: Gestion de la qualité
+    teamCommunication: Communication d'équipe
+    trainingMaterials: Matériel d'entraînement
+    ultraClimaHandbook: Manuel Ultra Clima
