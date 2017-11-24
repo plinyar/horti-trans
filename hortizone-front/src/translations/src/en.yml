@@ -1,0 +1,211 @@
+header:
+  links:
+    photos: Photos
+    tables: Tables
+    evaluations: Visits
+    graphs: Graphs
+    input: Crops
+  account:
+    logout: Logout
+    profile: Profile
+    language: Language
+    languageDialogHeader: Select language
+
+dialog:
+  ok: OK
+  cancel: Cancel
+  create: Create
+  delete: Delete
+
+compartments:
+  selectPlaceholder: Select to compare
+
+plantingCycles:
+  compare: Compare
+  selectPlaceholder: Select planting сycle
+  species:
+    tomato: Tomato
+    cucumber: Cucumber
+    roses: Roses
+    orchids: Orchids
+
+login:
+  email: Email
+  password: Password
+  submit: Sign in
+  forgot: Forgot password?
+  errors:
+    incorrect: Incorrect username or password
+
+tiles:
+  header: IntelGro
+  linksHeader: Crop management
+  groupsHeader: Add-ons
+  groups:
+    businessManagement: Business management
+    knowledgeLibrary: Knowledge library
+  types:
+    teamCommunication: Team communication
+    qualityManagement: Quality management
+    maintenance: Maintenance
+    finance: Finance
+    feasibilityStudy: Feasibility study
+    trainingMaterials: Training materials
+    greenhouseConfiguration: Greenhouse configuration
+    ultraClimaHandbook: Ultra Clima handbook
+
+photos:
+  types:
+    head: Head
+    fruit: Fruit
+    root: Root
+    extra: Extra
+    extra_2: Extra 2
+  week:
+    one: Week
+    few: Weeks
+    many: Weeks
+    other: Weeks
+  takePhoto: Take a photo
+  share: Share
+  replace: Replace
+  enterYourComment: Your comment
+  submit: Submit
+  photoDescriptionText: Photo description text
+  loadingPhoto: Loading photo
+  delete: Delete
+  deleteQuestion: Do you realy want to delete photo
+
+crops:
+  crop: Crop
+  plant: Plant
+  newEvaluation: New evaluation
+  editEvaluation: Edit evaluation
+  indicatorName: Name of indicator
+  evaluationDate: Evaluation date
+  submit: Submit
+  error: Incorrect value
+  categories:
+    other: Other
+    cropEvaluation: Evaluation
+    cropPollination: Pollination
+    cropProduction: Production
+    labor: Labor
+    climate: Climate
+    climateExtra: Climate Extra
+    climateSettings: Climate Settings
+    climateUC: Climate Ultra Clima
+    heating: Heating
+    lighting: Lighting
+    irrigation: Irrigation
+    screening: Screening
+    ventilation: Ventilation
+    weather: Weather
+    weight: Weight
+  tooltipHint: You can tap on indicator name to see a description / procedure
+
+tables:
+  indicatorName: Name of indicator
+  crop: Crop
+  plant: Plant
+  newEvaluation: New evaluation
+  editEvaluation: Edit evaluation
+  evaluationDate: Evaluation date
+  submit: Submit
+  error: Incorrect value
+  tooltipHint: You can tap on indicator name to see a description / procedure
+  editDialog:
+    title: Harvest
+  week:
+    one: Week
+    few: Weeks
+    many: Weeks
+    other: Weeks
+
+graphs:
+  selectPlaceholder: Select a preset
+  selectCompartmentPlaceholder: Select a compartment
+  selectDatePlaceholder: Select a date range
+  emptyGraphsMetricsTable: Click on Parameters to build a graph
+  edit: Save
+  create: New
+  parameters: Parameters
+  table:
+    color: Color
+    name: Metric
+    axis: Y Axis
+    maximum: Max
+    timeMax: Time Max
+    minimum: Min
+    timeMin: Time Min
+    average: Average
+  datesDialog:
+    title: Date selection
+  parametersDialog:
+    title: Parameters
+    emptyTable: No metrics found in this node
+    filterPlaceholder: Filter by name
+  createDialog:
+    title: New preset
+    presetsName: Presets name
+    createEmpty: Create empty
+    currentView: Use current view
+  updateDialog:
+    title: Edit preset
+    presetsName: Presets name
+  deleteDialog:
+    title: Delete preset
+    question: Do you realy want to delete
+
+dates:
+  today: Today
+  yesterday: Yesterday
+  thisWeek: This week
+  lastWeek: Last week
+  thisMonth: This month
+  lastMonth: Last month
+  thisYear: This year
+  lastYear: Last year
+  last24Hours: Last 24 hours
+  last3Days: Last 3 days
+  last7Days: Last 7 days
+  last30Days: Last 30 days
+  last90Days: Last 90 days
+  last365Days: Last 365 days
+  custom: Custom
+
+error:
+  error: Error
+
+cunits:
+  mini:
+    count: count
+    centimeter: cm
+    millimeter: mm
+    orderNumber: no.
+    score: score
+    gram: g
+    kilogram: kg
+    kilogramPerSquareMeter: kg/m2
+    hour: hrs
+    celsiusDegree: °C
+    joulePerSquareCentimeter: J/cm2
+    days: days
+    percent: '%'
+    partsPerMillion: ppm
+    literPerSquareMeter: l/m2
+    liter: l
+    milliSiemensPerCentimeter: mS/cm
+    pH: pH
+    wattPerSquareMeter: W/m2
+    meterPerSecond: m/s
+    degree: degree
+    microMolPerSecond: mmol/s
+    pascal: Pa
+    boolean: boolean
+    cubicMeter: m3
+    wattHour: Wh
+    id: id
+
+loader:
+  title: Loading. Please wait
