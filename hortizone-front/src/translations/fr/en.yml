@@ -59,7 +59,7 @@ cunits:
     wattHour: Wh
     wattPerSquareMeter: W / m2
 dates:
-  custom: Douane
+  custom: Douanee
   last24Hours: Dernières 24 heures
   last30Days: Les 30 derniers jours
   last365Days: Les 365 derniers jours
