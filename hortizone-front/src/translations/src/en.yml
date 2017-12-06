@@ -16,6 +16,7 @@ dialog:
   cancel: Cancel
   create: Create
   delete: Delete
+  edit: Edit
 
 compartments:
   selectPlaceholder: Select to compare
@@ -28,6 +29,7 @@ plantingCycles:
     cucumber: Cucumber
     roses: Roses
     orchids: Orchids
+    cabage: Cabage
 
 login:
   email: Email
